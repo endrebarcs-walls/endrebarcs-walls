@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Endre
-- 👀 I’m interested in Cyber securtiy and interesting - unusual solution - topics
+- 👀 I’m interested in Cyber securtiy and interesting topics, unusual solution
 - 🌱 I’m currently learning Kubernetes, DevOps, DevSecOps,
 - 💞️ ... ? 
 - 📫 ... !
